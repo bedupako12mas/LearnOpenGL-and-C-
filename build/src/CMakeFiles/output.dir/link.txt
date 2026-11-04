@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/output.dir/link.d CMakeFiles/output.dir/LearnOpenGL.cpp.o -o output  -Wl,-rpath,/home/arun/graphics_work/LearnOpenGL/glfw/build/src ../include/glad/libGLAD.a /home/arun/graphics_work/LearnOpenGL/glfw/build/src/libglfw.so
