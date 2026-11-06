@@ -4,5 +4,5 @@ add_executable(output)
 
 target_sources(output
   PRIVATE
-    LearnOpenGL.cpp
+    HelloWindow.cpp
 )
