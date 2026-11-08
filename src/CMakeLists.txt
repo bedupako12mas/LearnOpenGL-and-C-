@@ -4,5 +4,5 @@ add_executable(output)
 
 target_sources(output
   PRIVATE
-    HelloWindow.cpp
+    HelloTriangle.cpp
 )
